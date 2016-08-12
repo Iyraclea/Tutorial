@@ -2,5 +2,5 @@
 * Theme Scripts
 */
 $(function() {
-    console.log( "ready!" );
+    console.log( "ready" );
 });
